@@ -12,3 +12,7 @@ Currently I am living in a apartment together with my girlfriend and she is gene
 There are also 2 other spots I am currently using for sharpening my tech-skills: 
 1 - My own (small) studio
 2 - My corporate workplace !
+
+Lets see if the automation also works:
+
+YES!
