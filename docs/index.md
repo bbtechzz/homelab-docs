@@ -14,4 +14,3 @@ There are also 2 other spots I am currently using for sharpening my tech-skills:
 
 1 - My own (small) studio
 2 - My corporate workplace !
-
