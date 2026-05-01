@@ -1,14 +1,17 @@
 # Welcome to BBTechzz Homelab
 
-Hi, I'm Bart — an IT enthusiast from the Netherlands with a passion for homelabbing, self-hosting, and building reliable home networks.
+Hello and welcome to my page!
 
-On this site I document my homelab journey, including guides on:
+I am Bart from The Netherlands, an eager IT guy with some out of the hand hobbies.
 
-- 🌐 Networking (UniFi, KPN fiber, VLANs)
-- 🖥️ Self-hosting (Proxmox, Docker, LXC)
-- 🔒 Privacy & Security (GrapheneOS, WireGuard, Cloudflare)
-- 📡 And much more...
+On this platform, I would like to share some information on a few of those hobbies, starting off with; HomeLabbing!
 
-## Latest guides
+As many people it started off with the idea of having more control over your (home)network or even starting out with a NAS (NetworkAttatchedStorage) and now, its one of my many hobbies.
 
-*Coming soon...*
+Currently I am living in a apartment together with my girlfriend and she is generous enough to give me access to some space in our home to work on my nerd-stuff.
+
+There are also 2 other spots I am currently using for sharpening my tech-skills: 
+
+1 - My own (small) studio
+2 - My corporate workplace !
+
